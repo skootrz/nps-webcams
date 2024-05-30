@@ -1,3 +1,7 @@
+# Introduction
+
+This project was created to explore what is possible with AI tools. The objective was to create a react based web application that consumed a public API. Using ChatGPT and Github Copilot, the app was created in less that a couple of hours. Postman (API consumption) and VS Code were used to bring it all together.
+
 # Getting Started with National Parks Webcams
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
